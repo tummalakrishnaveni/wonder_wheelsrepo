@@ -1,2 +1,2 @@
-# wonder_weelsrepo
-Wonder Weels travels smart way to travel 
+# wonder_wheelsrepo
+Wonder Wheels travels smart way to travel 
